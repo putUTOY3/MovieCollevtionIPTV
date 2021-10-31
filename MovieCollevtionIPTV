@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-id="First Purge" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Purge Collection",First Purge
+https://m-11-ca.cdnpluto.club/_v5/b59ef2c02ed5040af2dd594336b1031a07712c24e7a2cce9c6e37a65106f07d36e231af4b35ffb76f844499ba5158a77b45b35c0661fa069e3460c2519d1523f8f094f3d002d64c5b4a36e79f8eea98fe8268b9da276510c91658face907adac5d74656e976708e4bde918e652c00318da23ef9709bd1f78ddce095c18f32353/1080/index.m3u8
+#EXTINF:-1 tvg-id="Purge" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Purge Collection",Purge
+https://m-11-ca.cdnpluto.club/_v5/b8eb87228ca0e967bce487c501dcddac7e715b2ff35032d99ab9c99e69c9cc3f8baebdc90e990e5ce9bfaad48d90f485545022e2955c9538173f802de84d047a5d1a0e8559bfe25bd9b16d1ff27dead8179b1f6efa970acfd2b3ffc7c38cb6482b191f735072c74993e975966d26ac50a86311c3146e31faf6014e4144eb2eb5/1080/index.m3u8
+#EXTINF:-1 tvg-id="Purge Anarchy" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Purge Collection",Purge Anarchy
+https://m-11-ca.cdnpluto.club/_v5/c486c8f98fb20055897f68c205c12366e83fc1d7a0eb664b4b9cb6e29bbe037ac4a6b0424ca6c0f6187ce424992142afec01d0337449d2ae099753029cdab001333e0d12d25b07dad239d5d99510a78d4ef25a4162bd16b4adfad3b09e9ec658314f982aef8ab7d420cb89e3545e850c99b8775553bd6f342d383efab7f2a3a4/1080/index.m3u8
+#EXTINF:-1 tvg-id="Purge Election Year" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Purge Collection",Purge Election Year
+https://m-11-ca.cdnpluto.club/_v5/23fe2d05f98377e3e98d53b7ff4491cb4ff8773eda5d47c41c31f2be00a74091b3eb4aefd30103aaaceaa17ae69d91ff84ef6bb5a88b60ab41807de2edbb52125d0fcad88980bffada281ba6c73633b48b97eb6bc10627c6ce457c6b4479aea8946d6e671a871dd70abd73539717cf19fdac43afba46c65f5f13c64b8434e846/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Purge Collection",Forever Purge
+https://m-11-eu.cdnpluto.club/_v5/5b7d96be8ad558d752cc3260e245e696dfc90802dd8c83b7c667a23c88f860f0cab85e58519520889d62d4f8f7ad976e39198c15a4c02950e625e6bf520ed242d81c50e2252524e24ab9c413bf3487c7b789ff7bae7405d88c8fdd101d8b64e74750ddaacedce06a59c9a215a4dd8c9cfa28ff2ca3fc82ed237bb824c300ebd9/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",The Fast and the Furious
+https://m-11-eu.cdnpluto.club/_v5/5d566af361c0d54efbdd6e6da30250fb4e8b5be9228aee3c25ced95911a10d611746c0761ee9406fc17ec4e0a8469048a0ceecaf4fd77f9c1d348c952550e71952b462f04aa6a004da141eefd78cceec5a4495a68ab345d8807ec6c710d22b4fe845f64d3d9bcaf50ef26628ba1ff7b7c5dbbcbf9c3a34f891652608607009eb/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",2 Fast 2 Furious
+https://m-11-eu.cdnpluto.club/_v5/af4e6e98bf9d82d4a1723e22e2ead52e1ab9f6c4e7acb4c13fd0f5a7f670088f90d60b53567c6b069899d5d22279b3ff9861dfd923ffc7f29e4d8679efe00fd59021987b3cfbe816efa9d8d12f906d061470d88221bfeae65d3baaadf994cbe161031bfa935d2bcfa2ea2393c409e1f4d5dc03f9bf365eb7ce7e20559068edf6/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",Fast & Furious
+https://m-11-ca.cdnpluto.club/_v5/174d2538baa50258e15e2d63452b479f086b9727872ee17bbcfe68e9902ea79c79ecf407a29f4b3b6d8ae50efcacb68ee7300a4da7e234f2f78a87ab4d46554e47893322e01d117872e36dd87cfb6d8d671c8db7f415b373adf5ab225e38bd6496d57dc45f0f66c2e0b228846aecd2780dc46576924b063026a7d48ee181a8f5/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",Fast Five
+https://m-11-eu.cdnpluto.club/_v5/533b03f3de9104194f2317a09461ab633c4e3b7ca4daa92cb0451a571bd054bac0027344802671133cf5c88fc7ea01000794c17d215088344722104d8c44e225363cb4a17429c8eb1c338ffdaf71d5b5e272273d89a911ac48d4ca7bc6d44642dfe3e34dc9c625d557878cf19046aa28602fd199d32a95bbf8d2faf295249b34/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",Fast & Furious 6
+https://m-11-eu.cdnpluto.club/_v5/4fb384f3fd0276c54535baac5f8b0aeaaddadaf96215296d3de8b22ec70fdcc9ed20bdb0a992631025c9c5aa057b236425d3c5edf860080448680dc54546eadae9d60028af7ed0dd3bd056ca80ef6356352f1e45d3ad2d96877d5802bcaa11cdbf3c7b7de436187b89aacf19ae08077b60abd82b56680d11a61f4678a55a5d2d/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",The Fast and the Furious: Tokyo Drift 
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",Furious 7 
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",The Fate of the Furious 
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="The Fast Saga",F9
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="F&F Hobbs & Shaw",Hobbs & Shaw
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Godzilla Collection",Godzilla
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Godzilla Collection",Godzilla: King of the Monsters 
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Godzilla Collection",Godzilla vs. Kong
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
