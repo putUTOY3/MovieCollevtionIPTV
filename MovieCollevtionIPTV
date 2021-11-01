@@ -57,6 +57,36 @@ https://m-11-ca.cdnpluto.club/_v5/c9af48f8162b44f53c370ac8c05a58fdf9731d129a9214
 https://m-11-eu.cdnpluto.club/_v5/339248e26075734d35495aebbc1f6c397f00f14c966eef64bee3d56804d905fab71903a2b0ea96474f54ac8aefcd6dec27cdcb31dcd839c659f699d59beb07d2d467ce022634dbcae55ef0c486cfb3df3be4b6c7fe70fb9b9058e63bd5a3e0b6f321789636954c7e09ddc8f7e30d18c1b129d5e8a5950e93cdf1ffd6c9fe142d/1080/index.m3u8
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="John Wick Collection",John Wick: Chapter 3 - Parrabellum
 https://m-11-eu.cdnpluto.club/_v5/a0c5a7e8a8831e74afa7760dce0fa3a8c2f0099398ba11a3bb91b16de6a1113346c09186353c69f2255b125f17c734554ffc84d9dbf9596fc348607e311ba9cab3e38e806a6cc250c011bed2d1ccf1c00ece960d832414ddf993cf603d0cafa5e703f8c93eb205f125c7d54bde06ea95e90c0a7d57bfc2eb1577f629a1e9f121/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible
+https://m-11-ca.cdnpluto.club/_v5/678e205fb709b5a4f302cd7376a55c6e8c3dd814b65792f7317ebd7f4923d998e3853d146d64ec72b2d25357f7ef69ddfcd536895f699c8d85be1cd0d6b25facb707517e96eee43a044f02b7d40fb38213b01e8ebbe8eb67585b1f2d51264be56e111ec64d11bd3ca9c3d9040d41a54402ce8e245abef583c3273b127cadd639/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible II
+https://m-11-ca.cdnpluto.club/_v5/0a1134e7561c7133249c314bc855ceed58cc51afaf7e9a88ec6bd635ba8b30a496d4d44d9fa3f257989cf16b909efb73de2ee09554e71672e92ab2cb902f962cd3be1ae5acb395741f2d669b58151b8ae6bab2622d4e698bf86ee13476db5902a185cd6afdc55ebdd88484ca8295632c2d8fccbe7a0170d2ce27db09fa5bb53a/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible III
+https://m-11-ca.cdnpluto.club/_v5/cb4fd45a2eec7e0d63f38598bd5ce311ca9c7a9595c890c52f1aebb10f995d3154c19792fb09f404d5b39f8b98beb9db89f65e9479fde995684d1785931677eb7f2c029ca5e7bb64a34a9f0c8ffdf2a7c45891deea8ce90b5a1280b6a56de79bfe3b52575434d6874e8e91eb1a0fcd190c9abba10cb517a4ed18bf3a90ca2f90/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible - Ghost Protocol
+https://m-11-ca.cdnpluto.club/_v5/a397bbf59c54ac221c307ad1edf50c900f916fa0b4e24508e7b49b9612a2a9acf7709d729a70e0535e1ba600dcbe4af45a77d289e5ad61a45d2372e152795661a0a00c2dd8980debeada19b1c2b68e425f9b1d6541f4444fa25b487b98e410955b1c6b5a59bac18faece79e6521245a51e616ef976961dd6054e27968327e284/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible - Rogue Nation
+https://m-11-ca.cdnpluto.club/_v5/f3f1ac8501302eefd583568d41c9c96e2309c7330033486f44328835bffce787c7c49efd4ca0a0d1741e7fab33423895c135324c706687f1187bec26827d234011addf46c77ac11c532a67f7a4dd5c4ddb0c0b84d4a29d5aa24d0e58457c762d5262b3fdf019bf0932f4832f01d8bb69bf54a98da5c578df9f4b5d983ae35651/720/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Mission:Impossible Collection",Mission:Impossible - Fallout
+https://m-11-ca.cdnpluto.club/_v5/70e3614a833fc9f419eda313b902d8c0c21ce90daa355146e297f1972cd4f14ccdc2d9969aabbc1b93bb239976f6bbfdd6b72c2c389440216de4e3cb3740be3dce184feebf88d37349d2ac4999a676fb409abe5cf798b305bf9dc77b1ba2cbf7f3dc64b69d41e2b16f6b6adeaf1a4e06ad2b0eb133fb59035a6118de3562178c/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Netflix Original Movies",6 Underground
+https://m-11-ca.cdnpluto.club/_v5/93d0e196362a6e77d20f3e7f476e0b15ce8dfed75d1826fb8dfb93cb28c4814af81e3321f58e3b4e9c520721b074b3d33cd04f0bb8124d6a913058468ab347ba8f8e7fa5e5c221aa5471b1631abbefafbd31fc11e4299e73bdeff870ad43de62cc3e2027522d31f63e8c4da75359a88b3ba4d71fb096f6bdf67a2faaed2f35eb/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="https://img.movie4kto.net/xxrz/250x400/281/7b/2f/7b2f3aae393dbbf4c70db43b856f2e48/7b2f3aae393dbbf4c70db43b856f2e48.jpg" group-title="Others",The Hitman's Bodyguard
+https://m-11-eu.cdnpluto.club/_v5/be8267f7e7cdf0a9a13e46e656357d7251971ccaf0fafd28368b7e5c76f5c869c21bcda0a6ab2d00afa84dda702bc7547e779f7de8dd313be80b7bd333de2ad35b372f359733dc6c22ded9e027b471253f860fabe3b231cf527660b85e0b3d32abf447551162a869f0741cc2eac6f39e67a0a53424749717e2febedee0ff93d0/720/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="https://img.movie4kto.net/xxrz/250x400/281/ef/ab/efab33b4445786cbd98a3507faebce90/efab33b4445786cbd98a3507faebce90.jpg" group-title="Others",Hitman's Wife's Bodyguard
+https://m-11-ca.cdnpluto.club/_v5/3fb1ad290607eecde20cff2ed0c6ccc55749d79e37cfa01ff3e973a479c02f9d3e74214f4f177b3c683273459b27eef24e7895ae7f40410eb34cb09bdadcc7b7adc6c2fcd5a3f958ac5256d4cf61096400994fd198cb79165fcd5c78a0a1a1d23e76d43202e649868d4efae0e52b2cb4a67bf50b08bef73866481094fde9ad3d/1080/index.m3u8
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
 
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
