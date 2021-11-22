@@ -229,7 +229,8 @@ https://m-14-ca.cdnpluto.club/_v5/e74f543f6ac8eeaa89073e7d08278f3743f45c38f657e2
 
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",DisneyXD
 https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=113368040&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMSA3OjQ4OjI1IEFNJmhhc2hfdmFsdWU9d2RXL3VhcDRWRTJ3ZnhkNDFmMitXQT09JnZhbGlkbWludXRlcz0yNDA=
-
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Nickelodeon
+https://h3.ustvgo.la/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=113962550&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMSA3OjUxOjA5IEFNJmhhc2hfdmFsdWU9U1pmZWpzcllVeTRnTEpZbHN1bXJTZz09JnZhbGlkbWludXRlcz0yNDA=
 
 
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",
