@@ -227,5 +227,10 @@ https://m-14-eu.cdnpluto.club/_v5/20509dab3392115769b0f2d0e114c6dc444bba291fbfe1
 https://m-14-ca.cdnpluto.club/_v5/e74f543f6ac8eeaa89073e7d08278f3743f45c38f657e243d80eadbe5802c189da5c1868711ce930cc5741baada506725cb28d65e5de88d9b96487ba1c310e46866bfb1ea73eaddbd0892e6dd521a4c1beda31bc1eecc6fee24f6f984c721a5aa2c456a6485f5a9bdcf6aad0788604875ae8141521dbf4b195229c3b6027d7b4/1080/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",DisneyXD
+https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=113368040&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMSA3OjQ4OjI1IEFNJmhhc2hfdmFsdWU9d2RXL3VhcDRWRTJ3ZnhkNDFmMitXQT09JnZhbGlkbWludXRlcz0yNDA=
+
+
+
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",
 
