@@ -1,17 +1,7 @@
 #EXTINF:-1,Venom : Let there be Carnage
-http://objectstorage.ap-melbourne-1.oraclecloud.com/n/axgnucisthcc/b/z-bucket-1/o/mv/66669.mp4
-#EXTINF:-1,Netflix- Gloria Bell - Arabic Subtitle - 2018
-http://new-pro.tv:8080/movie/golden_eagle/khalid/29883.mp4
-#EXTINF:-1,Netflix- Greta - Arabic Subtitle - 2018
-http://new-pro.tv:8080/movie/golden_eagle/khalid/29887.mp4
-#EXTINF:-1,Bullets of Justice (VOD 2019)
-http://new-pro.tv:8080/movie/golden_eagle/khalid/233517.mp4
-#EXTINF:-1,Criminal Audition (VOD 2019)
-http://new-pro.tv:8080/movie/golden_eagle/khalid/233524.mp4
-#EXTINF:-1,Do Not Reply (vod 2019)
-http://new-pro.tv:8080/movie/golden_eagle/khalid/233547.mp4
+https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axgnucisthcc/b/z-bucket-1/o/mv/66669.mp4
 
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="https://img.movie4kto.net/xxrz/250x400/281/b1/d2/b1d2e52a612cae26e446bd48d0b8dfe1/b1d2e52a612cae26e446bd48d0b8dfe1.jpg" group-title="24/7", Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="https://img.movie4kto.net/xxrz/250x400/281/c9/a6/c9a67da5635c5729d53b8668b23445ac/c9a67da5635c5729d53b8668b23445ac.jpg" group-title="MCU Movies",Captain America: The First Avenger
@@ -241,9 +231,10 @@ https://m-14-ca.cdnpluto.club/_v5/e74f543f6ac8eeaa89073e7d08278f3743f45c38f657e2
 
 
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",DisneyXD
-https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=113368040&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMSA3OjQ4OjI1IEFNJmhhc2hfdmFsdWU9d2RXL3VhcDRWRTJ3ZnhkNDFmMitXQT09JnZhbGlkbWludXRlcz0yNDA=
+https://h1.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=147799390&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSA5OjQ0OjIwIEFNJmhhc2hfdmFsdWU9a2VZU3dqYlRMOU9jeVdBV2J2SC9FQT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Nickelodeon
-https://h3.ustvgo.la/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=113962550&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMSA3OjUxOjA5IEFNJmhhc2hfdmFsdWU9U1pmZWpzcllVeTRnTEpZbHN1bXJTZz09JnZhbGlkbWludXRlcz0yNDA=
+https://h3.ustvgo.la/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=114610541&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSA5OjQ0OjU2IEFNJmhhc2hfdmFsdWU9K1pCeDh1R1dqdXpodkpGN2NHY2c0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
 #EXTINF:-1 tvg-id="Venom" tvg-country="US" tvg-language="English" tvg-logo="https://img.movie4kto.net/xxrz/250x400/281/97/e0/97e0f2adee791cfe2e0feb9406b5ba50/97e0f2adee791cfe2e0feb9406b5ba50.jpg" group-title="Movie",Venom: Let There Be Carnage
 https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axgnucisthcc/b/z-bucket-1/o/mv/66669.mp4
 
